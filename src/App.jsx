@@ -8,6 +8,9 @@ import Setting from "./pages/Setting";
 import PublicLayout from "./components/layout/PublicLayout";
 import Signup from "./pages/Signup";
 import Login from "./pages/Login";
+import "./assets/CSS/main.css";
+import "./assets/CSS/form.css";
+import "./assets/CSS/post.css";
 
 
 function App() {
